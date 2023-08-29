@@ -9,6 +9,19 @@ If you want to try or download this project follow these steps:-
 
 If You only want to access code files you can follow the path shown below:-
   Assets-> C#
+
+
+
+
+
+  
   There are two more folders Called;
+
+
+  
     1. Player [All Player script]:- Path=> Assets-> C#-> Player
+
+
+
+    
     2. Enemy [All Enemy script]:- Path=> Assets-> C#-> Enemy
